@@ -31,3 +31,16 @@ section{
     color: white;
     font-weight: bold;
 }
+
+
+
+
+.my-div{
+    width: 40%;
+    float: left;
+    margin: 4%;
+    padding: 1%;
+}
+.half-width img{
+    width: 80%;
+}
