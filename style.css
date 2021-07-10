@@ -9,8 +9,8 @@ body{
 .half-width{
     width: 40%;
     float: left;
-    margin: 4%;
-    padding: 1%;
+    margin-left: 5%;
+    padding-left: 2%;
 }
 
 .half-width img{
@@ -23,6 +23,7 @@ body{
 }
 section{
     height: 500px;
+    padding-bottom: 200px;
 }
 .link-button{
     text-decoration: none;
@@ -35,12 +36,3 @@ section{
 
 
 
-.my-div{
-    width: 40%;
-    float: left;
-    margin: 4%;
-    padding: 1%;
-}
-.half-width img{
-    width: 80%;
-}
