@@ -5,12 +5,7 @@ body{
 .name-highlight{
     color: orange;
 }
-.half-width{
-    width: 40%;
-    float: left;
-    margin: 4%;
-    padding: 1%;
-}
+
 
 .half-width img{
     width: 100%;
